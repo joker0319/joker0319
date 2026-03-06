@@ -1,4 +1,4 @@
-# Hi 👋, I'm jojo <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
+# <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  Hi 👋, I'm jojo 
 
 - 🌱 I'm currently learning **Agent**
 
