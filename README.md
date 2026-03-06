@@ -5,15 +5,12 @@
 
 - 📫 How to reach me **1981178578@qq.com** 
 
-- 💻 My LeetCode: **[https://leetcode.cn/u/dimoob/](https://leetcode.cn/u/dimoob/)**
-
 ### 🛠️ Tech Stack
 - 编程语言: TypeScript JavaScript
 - 工具/框架: React Vue
 
 ### 📊 Coding Stats
-- 💻 LeetCode: [https://leetcode.cn/u/dimoob/](https://leetcode.cn/u/dimoob/)
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/dimoob?theme=dark&font=Inter&ext=activity)
+- 💻 My LeetCode: **[https://leetcode.cn/u/dimoob/](https://leetcode.cn/u/dimoob/)**
 
 ### ✨ Fun Fact
 - 喜欢刷题、研究AI Agent相关技术
